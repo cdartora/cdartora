@@ -1,6 +1,10 @@
 ### Olá! Eu sou o _@cdartora_, 
 Estudante de desenvolvimento web na Trybe!
 Interessado em soluções criativas e problemas reais desafiadores que possam acrescentar no meu aprendizado.
+<div display="flex" justify-content="center">
+  <a href = "mailto:carlosdalsoler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosdalsoler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <div>
   <a href="https://github.com/cdartora">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cdartora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,10 +19,3 @@ Interessado em soluções criativas e problemas reais desafiadores que possam ac
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  ##
-  
-  <div> 
-  <a href = "mailto:carlosdalsoler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosdalsoler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br>   
-<img src="https://i.pinimg.com/originals/e0/2d/05/e02d0591b32b81297102c24459594705.gif" width="250"/>
