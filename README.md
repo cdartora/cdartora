@@ -1,6 +1,7 @@
 ### Olá! Eu sou o _@cdartora_, 
 ##### Desenvolvedor Web.
-Sou interessado em otimizar minha produtividade com o recurso da IA.
+##### Especializado em Frontend
+
 Prezo em criar código limpo e estruturado e organizá-lo para fácil leitura e entendimento.
 Almejo continuamente masterizar minhas habilidades nas tecnologias que estudo.
 
